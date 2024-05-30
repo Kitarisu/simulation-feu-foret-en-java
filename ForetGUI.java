@@ -14,23 +14,6 @@ import javax.swing.*;
 
 
 
-//----------------------- COMMENTAIRE ------------------------
-
-// j'ai parfaitement conscience que ca n'est pas parfait, 
-// j'ai fait de mon mieux pour faire un truc qui marche, 
-// et surtout pour comprendre comment ca marche
-// C'est litteralement le premier truc que je fais en java
-
-// le fichier config.txt est composé de 6 lignes (minimum) :
-// h : hauteur de la foret
-// l : largeur de la foret
-// p : probabilité de propagation du feu
-// n : nombre d'arbres en feu initialement
-// n lignes suivantes : coordonnées x puis y des arbres en feu initialement
-
-//------------------------------------------------------------
-
-
 public class ForetGUI extends JFrame {
     private Foret foret;
     private DessinPanel dessinPanel;

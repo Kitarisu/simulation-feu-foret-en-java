@@ -1,0 +1,21 @@
+Voici le petit projet de simulation d'incendie de foret.
+
+Les parametres sont modifiables dans le fichier "config.txt".
+
+--------------- COMMENTAIRE & CONFIGURATION ----------------
+
+j'ai conscience que ca n'est pas parfait.
+j'ai fait de mon mieux pour faire un truc qui marche, 
+et surtout pour comprendre comment ca marche
+C'est litteralement le premier programme que je fais en java.
+
+Je suis avide de retour pour mieux comprendre comment mieux profiter du langage
+
+le fichier config.txt est composé de 6 lignes (minimum) :
+h : hauteur de la foret
+l : largeur de la foret
+p : probabilité de propagation du feu
+n : nombre d'arbres en feu initialement
+n lignes suivantes : coordonnées x puis y des arbres en feu initialement
+
+------------------------------------------------------------
